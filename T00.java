@@ -9,9 +9,6 @@ public class T00 {
         int hasilkali;
         int hasiljumlah;
 
-        System.out.println("Masukkan dua bilangan");
-        System.out.println("Masukkan bilangan pertama");
-        System.out.println("Masukkan bilangan kedua");
         bilangan1 = Integer.parseInt(input.nextLine());
         bilangan2 = Integer.parseInt(input.nextLine());
         if (bilangan1 % 2 == 0) {

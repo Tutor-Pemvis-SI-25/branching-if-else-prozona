@@ -4,10 +4,10 @@
         <attribute name="name" value="T00"/>
         <attribute name="authors" value="ASUS"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2025-10-03 03.11.37 PM"/>
+        <attribute name="saved" value="2025-10-03 03.13.44 PM"/>
         <attribute name="created" value="QVNVUztMQVBUT1AtVkJQSEVHNE87MjAyNS0xMC0wMzswMi41OC4zMCBQTTsyNjUx"/>
         <attribute name="edited" value="QVNVUztMQVBUT1AtVkJQSEVHNE87MjAyNS0xMC0wMzswMy4wMC4wNiBQTTs0O3VzZXI7TEFQVE9QLTRHNzE5VUNGOzIwMjUtMTAtMDE7MDg6MjY6MzggUE07VDAwWzFdLmZwcmc7NjUwNQ=="/>
-        <attribute name="edited" value="QVNVUztMQVBUT1AtVkJQSEVHNE87MjAyNS0xMC0wMzswMy4xMS4zNyBQTTsyOzI3NTc="/>
+        <attribute name="edited" value="QVNVUztMQVBUT1AtVkJQSEVHNE87MjAyNS0xMC0wMzswMy4xMy40NCBQTTszOzI3NTg="/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
@@ -15,9 +15,6 @@
             <declare name="bilangan1, bilangan2" type="Integer" array="False" size=""/>
             <declare name="hasilkali" type="Integer" array="False" size=""/>
             <declare name="hasiljumlah" type="Integer" array="False" size=""/>
-            <output expression="&quot;Masukkan dua bilangan&quot;" newline="True"/>
-            <output expression="&quot;Masukkan bilangan pertama&quot;" newline="True"/>
-            <output expression="&quot;Masukkan bilangan kedua&quot;" newline="True"/>
             <input variable="bilangan1"/>
             <input variable="bilangan2"/>
             <if expression="bilangan1 % 2 == 0">
